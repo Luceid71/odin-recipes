@@ -3,7 +3,6 @@
 }
 h1 {
 	background-color: purple;
-	color: aliceblue;
 	text-align: center;
 }
 h3 {
@@ -11,16 +10,14 @@ h3 {
 }
 p {
 	font-style: oblique;
-	color: darkslateblue;
 }
-li {
+li, p {
 	color: darkslateblue;
 }
 button {
-	color: aliceblue;
 	background-color: indigo;
 }
-a {
+a, button, h1 {
 	color: aliceblue;
 }
 img {
